@@ -1,8 +1,6 @@
 # corporate_bankruptcy_prediction
 Bankruptcy prediction using tree-based classifiers on imbalanced financial data
 
-# Corporate Bankruptcy Prediction
-
 > 재무 특성을 이용한 기업 부실 예측 — 불균형 이진 분류 프로젝트
 
 ---
